@@ -1,0 +1,27 @@
+.searchInput {
+    width: 80vw;
+    max-width: 500px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    color: #333;
+    border: 1px solid #6c63ff; /* A stylish purple tone */
+    border-radius: 6px;
+    transition: all 0.3s ease; /* Smooth transition for focus effect */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    outline: none;
+}
+
+.searchInput:focus {
+    border-color: #4fc3f7; /* Light blue for focus */
+    box-shadow: 0 4px 8px rgba(79, 195, 247, 0.4); /* Light blue glow */
+    background-color: #f9f9f9; /* Slightly lighter background */
+    transform: scale(1.02); /* Subtle zoom effect */
+}
+
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
