@@ -8,4 +8,4 @@ This is a simple React application that allows users to search for images using 
 - Fetch results dynamically from the Unsplash API.
 - Clean, responsive UI design.
 
-##Deployment : [Simple Image Search](image-search-oen8oz08o-dev-khairpals-projects.vercel.app)
+##Deployment : [Simple Image Search](https://image-search-oen8oz08o-dev-khairpals-projects.vercel.app/)
